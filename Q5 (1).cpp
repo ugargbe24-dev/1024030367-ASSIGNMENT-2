@@ -66,5 +66,5 @@ int main(){
         }
         cout<<endl;
     }
-    //can test others in same way
 }
+
